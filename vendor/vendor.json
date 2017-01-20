@@ -1,0 +1,23 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "5JbHsXbKqFgqtUyLhG+AuTMB5C0=",
+			"path": "github.com/alex-j-butler/loghandler",
+			"revision": "69f2410d09502aca7cca4d9f26b70b156f892eab",
+			"revisionTime": "2017-01-19T10:46:20Z"
+		},
+		{
+			"checksumSHA1": "21kDrz4DnDppRHgK7vVmOFwgcSQ=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "a5b47d31c556af34a302ce5d659e6fea44d90de0",
+			"revisionTime": "2016-09-28T15:37:09Z"
+		},
+		{
+			"path": "sqlboiler",
+			"revision": ""
+		}
+	],
+	"rootPath": "alex-j-butler.com/ip-logging"
+}

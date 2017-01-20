@@ -1,0 +1,7 @@
+[postgres]
+dbname="ip-logging"
+host="192.168.1.108"
+port=5432
+user="tf2-booking"
+pass="example"
+sslmode="disable"
